@@ -21,3 +21,21 @@ table,th, td{
 .bootstrap:hover{
     transform: scale(1.5);
 }
+.angular:hover{
+    transform: scale(1.5);
+}
+.postman:hover{
+    transform: scale(1.5);
+}
+.angular{
+    height: 80px;
+    border-radius: 5px;
+    transition: all 1s;
+    cursor: pointer;
+}
+.postman{
+    height: 60px;
+    border-radius: 5px;
+    transition: all 1s;
+    cursor: pointer;
+}

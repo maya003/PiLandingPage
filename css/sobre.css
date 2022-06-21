@@ -1,0 +1,22 @@
+.conteudo-principal-subtitulo-sobre{
+    font-family: 'Sarala', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #ECD6C4;
+}
+.conteudo-principal-subtitulo-sobre{
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+.imagem-maya{
+    height: 400px;
+    margin: 30px;
+}
+#conteudo-principal-titulo-sobre{
+    font-family: 'Righteous', cursive;
+    font-size: 64px;
+    font-weight: 400;
+    color: #FFF2E7;
+    margin-left: 200px;
+}
