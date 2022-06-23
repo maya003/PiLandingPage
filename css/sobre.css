@@ -20,3 +20,22 @@
     color: #FFF2E7;
     margin-left: 200px;
 }
+.conteudo-principal-btn-sobre{
+    height: 30px;
+    width: 85px;
+    color: #FFF2E7;
+    background-color: #2F2325;
+    background: #ECD6C4;
+    border-radius: 20px;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+    border: 0,5px;
+    font-family: 'Sarala', sans-serif;
+    font-size: 14px;
+    font-weight: 400px;
+    cursor: pointer;
+    margin-left: 20px;
+    border-color: #2F2325;
+}
+.conteudo-principal-btn-sobre:hover{
+    background-color: #FFF2E7;
+}
