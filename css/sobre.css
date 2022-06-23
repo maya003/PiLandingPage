@@ -39,3 +39,9 @@
 .conteudo-principal-btn-sobre:hover{
     background-color: #FFF2E7;
 }
+.imagem-maya{
+    border-bottom: 8px solid yellow;
+    border-top: 8px solid black;
+    border-right: 8px solid white;
+    border-left: 8px solid purple;
+}
